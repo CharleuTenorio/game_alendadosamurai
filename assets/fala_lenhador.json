@@ -1,0 +1,12 @@
+[
+	{
+		"title": "lenhador_fala",
+		"tags": "",
+		"body": "Pressiona a tecla \"E\" para falar com o lenhador\r\nLenhador - Olá viajante o que faz nessas terras frias onde o medo impera!\r\nSamurai- Sou Kyoto um samurai e vim para libertar o povo desse mal.\r\nLenhador-Hum… Lembrei você é o guerreiro misterioso que libertou uma criança?\r\nSamurai-Isso mesmo! E Agora preciso descansar comer algo e continuar minha jornada\r\nLenhador-A noite está fria e hoje fazemos a guarda dos portões aqui fora enquanto os outros dormem.\r\nSamurai-Como é o nome do homem que se encontra mais adiante?-\r\nLenhador-Chama-se Chagas é um caçador muito habilidoso. Se não fosse por ele estamos passando fome.\r\nSamurai-Então ele deve ter algo para que eu possa me alimentar\r\nLenhador- Sim claro ele vai ficar feliz em lhe ajudar pode ir falar com ele.\r\nPressione a tecla \"Q\" para sair!",
+		"position": {
+			"x": 346,
+			"y": 190
+		},
+		"colorID": 0
+	}
+]
